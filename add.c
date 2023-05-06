@@ -2,4 +2,4 @@
 #include<conio.h>
 voi main()
 {
-  int var;
+  int var=10;
